@@ -14,7 +14,7 @@ Term: Spring 2024
 
 + Project summary: 
 	
-**Contribution statement**: All team members contributed equally in all stages of this project. 
+**Contribution statement**: 
 
 We use both airness Constraints: Mechanisms for Fair Classification Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment to find out the unfair impact from race and gender. Finally, we remove the negative impact and gain the result.
 
