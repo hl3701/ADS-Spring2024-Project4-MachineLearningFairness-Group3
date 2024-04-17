@@ -22,7 +22,7 @@ Zhengfei Chen conduct the data filtering & cleaning and feature selection work i
 
 For the Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment, Hongxu Lin and Zhengfei Chen did this algorithm. Zhengfei Chen and Hongxu Lin discussed the ideas" Zhengfei Chen wrote the part of model conduction part, and Hongxu Lin took charge in accuracy plotting and revision of algorithm work.
 
-For the Fairness Constraints: Mechanisms for Fair Classification: Yanzhao Chen completed the entire A1 code part, and explained the A1 code with the presenter.
+For the Fairness Constraints: Mechanisms for Fair Classification: Yanzhao Chen Completed the entire A1 code part alone, and explained the A1 code with the presenter.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
