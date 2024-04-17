@@ -14,8 +14,10 @@ Term: Spring 2024
 
 + Project summary: 
 	
-**Contribution statement**: 
+**Contribution statement**: All team members contributed equally in all stages of this project. 
+
 We use both airness Constraints: Mechanisms for Fair Classification Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment to find out the unfair impact from race and gender. Finally, we remove the negative impact and gain the result.
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
